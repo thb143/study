@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+/bin
+
+**/.settings
+**/.project
+**/.classpath
+**/.checkstyle
+**/target
+/.README.md.html
+**/.README.md.html
