@@ -1,5 +1,8 @@
 package dataStructure.four;
 
+/**
+ * 队列。
+ */
 public class Queue {
 	Object[] data;
 	int size;
