@@ -15,7 +15,6 @@ public class AtomicTest {
 		for (int i=0;i<20;i++) {
 			threads[i] = new Thread(new Runnable() {
 				
-				@Override
 				public void run() {
 					for (int a=0;a<1000;a++) {
 						increase();
