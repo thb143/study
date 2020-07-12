@@ -3,6 +3,24 @@ package tree;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ *
+ * 给定一颗二叉树，如果从根节点到某一叶节点的路径上数字之和等于指定的数字，返回真，否则返回假。
+
+	例如：给定数字22，树的结构为
+
+              5
+             / \
+            4   8
+           /   / \
+          11  13  4
+         /  \      \
+        7    2      1
+	可以找到路径5->4->11->2，使5+4+11+2=22，因此返回真
+
+ *
+ */
 public class TreeTest {
 
 	List<List<Integer>> result = new ArrayList<>();
