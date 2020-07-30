@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><PACKET><HEAD><SERVICE_NAME>crcbserver1</SERVICE_NAME></HEAD><BODY><CONTENT><![CDATA[<?xml version="1.0" encoding="utf-8"?><PACKET><![CDATA[nice to meet you!]]></PACKET>]]></CONTENT></BODY></PACKET>
